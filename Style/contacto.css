@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+#section #contenedor {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	margin-bottom: 80px;
+}
+#section #contenedor #s1 {
+	background-image: url(../activos/header_fonfo.png);
+	width: 300px;
+	position: relative;
+	left: 20px;
+	top: 20px;
+	padding: 20px;
+}
+#section #contenedor #s1 #titulo {
+	width: auto;
+	font-size: 16px;
+	padding-bottom: 10px;
+	font-family: "Courier New", Courier, monospace;
+	text-decoration: underline;
+}
+#section  #contenedor  #s1  #titulo2 {
+	width: auto;
+	font-size: 16px;
+	padding-bottom: 10px;
+	font-family: "Courier New", Courier, monospace;
+	height: 270px;
+}
+#section #contenedor #s2 {
+	width: 500px;
+	position: relative;
+	top: 50px;
+	background-image: url(../activos/comnetface_fondo.png);
+	padding: 20px;
+	height: auto;
+	left: 20px;
+	border: 2px solid #557440;
+	color: #000000;
+	text-decoration: underline;
+}
+#section #contenedor #s3 {
+	height: 300px;
+	width: 550px;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	border: 3px solid #557440;
+}
+#section #contenedor #s3 #Direccion_mapa {
+	position: absolute;
+	background-image: url(../activos/header_fonfo.png);
+	height: 15px;
+	width: 276px;
+	left: 140px;
+	font-size: 14px;
+	top: 265px;
+	color: #000000;
+}
+.Estilo1 {font-size: 24px}
+h1 {
+	font-size: 14px;
+	font-weight: normal;
+}

@@ -1,0 +1,67 @@
+@charset "utf-8";
+.Estilo3 {font-size: 14}
+
+/* CSS Document */
+
+#section #contenedor {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 20px;
+}
+#section #contenedor .actividad {
+	width: 100%;
+	height: 250px;
+	position: relative;
+	background-image: url(../activos/header_fonfo.png);
+	margin-top: 20px;
+	border: 1px ridge #000000;
+	border-radius: 8px 8px 8px 8px;
+}
+#section #contenedor .actividad .imagen .img {
+    border-radius: 7px 7px 7px 7px;
+}
+
+#section #contenedor .actividad .imagen {
+	position: absolute;
+	left: 4px;
+	top: 4px;
+	background-color: #D2D2D2;
+	height: 240px;
+	width: 250px;
+	border: 1px solid #000000;
+	border-radius: 8px 8px 8px 8px;
+}
+#section #contenedor .actividad .titulo {
+	width: 690px;
+	position: absolute;
+	right: 5px;
+	height: 20px;
+	top: 5px;
+	font-size: 16px;
+	padding-top: 0px;
+	padding-left: 5px;
+	text-decoration: underline;
+}
+#section #contenedor .actividad .texto {
+	width: 685px;
+	position: absolute;
+	right: 5px;
+	height: 210px;
+	bottom: 5px;
+	text-align: justify;
+	font-size: 12px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#section #contenedor .actividad .texto li {
+}
+#section #contenedor .actividad .texto ul {
+	list-style-type: disc;
+	margin-left: 15px;
+}
+h1 {
+	font-size: 18px;
+	font-weight: normal;
+}

@@ -1,0 +1,287 @@
+@charset "utf-8";
+#section #contenedor {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	height: 900px;
+	margin-bottom: 20px;
+}
+
+
+#section /* CSS Document */
+
+ #contenedor #s1 {
+	position: relative;
+	height: 380px;
+	width: 600px;
+	top: 20px;
+}
+#section #contenedor #s2 {
+	width: 330px;
+	position: absolute;
+	right: 0px;
+	height: 309px;
+	top: 30px;
+}
+#section #contenedor #s2 .actividad {
+	width: 330px;
+	height: 60px;
+	background-image: url(../activos/header_fonfo.png);
+	position: relative;
+}
+#section  #contenedor  #s2  .actividad:hover {
+	width: 328px;
+	height: 58px;
+	background-image: url(../activos/header_fonfo.png);
+	border: 1px solid #FFFFFF;
+}
+#section  #contenedor  #s2  .actividad  .texto1 {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_aerobico_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	background-position: bottom;
+}
+
+#section   #contenedor   #s2   .actividad   .texto1:hover {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_aerobico_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	top: -1px;
+	right: -1px;
+	background-position: top;
+}
+#section  #contenedor  #s2  .actividad  .texto1  a {
+	color: #D1EAB9;
+	text-decoration: none;
+	display: block;
+}
+#section   #contenedor   #s2   .actividad   .texto2 {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_masajes_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	background-position: bottom;
+}
+#section    #contenedor    #s2    .actividad    .texto2:hover {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_masajes_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	top: -1px;
+	right: -1px;
+	background-position: top;
+}
+#section   #contenedor   #s2   .actividad   .texto2   a {
+	color: #D1EAB9;
+	text-decoration: none;
+	display: block;
+}
+#section  #contenedor  #s2  .actividad  .texto3 {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_depilacion_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	background-position: bottom;
+}
+
+#section   #contenedor   #s2   .actividad   .texto3:hover {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_depilacion_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	top: -1px;
+	right: -1px;
+	background-position: top;
+}
+#section  #contenedor  #s2  .actividad  .texto3  a {
+	color: #D1EAB9;
+	text-decoration: none;
+	display: block;
+}
+#section   #contenedor   #s2   .actividad   .texto4 {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_pilates_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	background-position: bottom;
+}
+
+#section    #contenedor    #s2    .actividad    .texto4:hover {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_pilates_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	top: -1px;
+	right: -1px;
+	background-position: top;
+}
+#section   #contenedor   #s2   .actividad   .texto4   a {
+	color: #D1EAB9;
+	text-decoration: none;
+	display: block;
+}
+#section    #contenedor    #s2    .actividad    .texto5 {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_ritmologia_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	background-position: bottom;
+}
+
+#section     #contenedor     #s2     .actividad     .texto5:hover {
+	position: absolute;
+	font-size: 16px;
+	color: #D1EAB9;
+	z-index: 2;
+	height: 40px;
+	width: 310px;
+	padding-top: 20px;
+	background-image: url(../activos/actividad_ritmologia_b.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	top: -1px;
+	right: -1px;
+	background-position: top;
+}
+#section    #contenedor    #s2    .actividad    .texto5    a {
+	color: #D1EAB9;
+	text-decoration: none;
+	display: block;
+}
+#section #contenedor #s3 {
+	position: absolute;
+	width: 520px;
+	height: 148px;
+	background-image: url(../activos/fondo%20texto1.png);
+	background-repeat: no-repeat;
+	padding-top: 25px;
+	padding-left: 40px;
+	padding-right: 35px;
+	padding-bottom: 30px;
+	font-size: 1.3em;
+	color: #C9DCB4;
+	top: 360px;
+}
+#section #contenedor #s4 {
+	background-image: url(../activos/fondo_F_Likebox.png);
+	background-repeat: repeat;
+	height: 420px;
+	width: 330px;
+	position: absolute;
+	right: 0px;
+	top: 470px;
+}
+#section #contenedor #s4 #Facebook_likeBox {
+	height: 400px;
+	width: 310px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+#section  #contenedor  #s5 {
+	background-image: url(../activos/fondo_F_Like.png);
+	background-repeat: repeat;
+	height: 90px;
+	width: 330px;
+	position: absolute;
+	right: 0px;
+	top: 360px;
+}
+#section   #contenedor   #s5   #Facebook_like {
+	height: 66px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 14px;
+}
+
+#section  #contenedor  #s6 {
+	position: absolute;
+	width: 517px;
+	height: 235px;
+	background-image: url(../activos/fondo%20texto2.png);
+	background-repeat: no-repeat;
+	padding-top: 30px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	font-size: 14px;
+	color: #12180C;
+	top: 580px;
+}
+#section #contenedor #s6 li {
+	list-style-type: disc;
+	margin-left: 20px;
+	font-size: 13px;
+	line-height: 25px;
+}
+h1 {
+	font-size: 16px;
+	font-weight: normal;
+}
+h2 {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+
+#section #contenedor #s6 ul {
+	margin-top: 8px;
+}

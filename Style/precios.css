@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#section {
+}
+#section #contenedor {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#section #contenedor .cuadro {
+	background-image: url(../activos/comnetface_fondo.png);
+	height: 170px;
+	width: 440px;
+	border-radius: 8px 8px 8px 8px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: outset;
+	border-right-style: outset;
+	border-bottom-style: outset;
+	border-left-style: outset;
+	border-top-color: #002800;
+	border-right-color: #001700;
+	border-bottom-color: #001700;
+	border-left-color: #002800;
+	position: relative;
+	float: left;
+	font-size: 13px;
+	line-height: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+#section #contenedor .cuadro .img {
+	height: 150px;
+	width: 150px;
+	border-radius: 6px 6px 6px 6px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: outset;
+	border-right-style: outset;
+	border-bottom-style: outset;
+	border-left-style: outset;
+	border-top-color: #002800;
+	border-right-color: #001700;
+	border-bottom-color: #001700;
+	border-left-color: #002800;
+	position: absolute;
+	left: 8px;
+	top: 8px;
+}
+.titulo {
+	font-size: 16px;
+	position: absolute;
+	left: 170px;
+	top: 5px;
+	color: #001700;
+	border: 1px solid #000000;
+	margin: 0px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 6px 6px 6px 6px;
+}
+#section #contenedor .cuadro .texto {
+	width: 264px;
+	position: absolute;
+	left: 170px;
+	color: #000000;
+	height: 135px;
+	bottom: 2px;
+	text-align: justify;
+}
+#section #contenedor .cuadro .texto .ul2 {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: lower-roman;
+	list-style-image: url(../activos/estrella2.png);
+	list-style-position: inside;
+}

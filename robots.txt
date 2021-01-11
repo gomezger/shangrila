@@ -1,0 +1,7 @@
+#
+# robots.txt for shangrilabienestar.com.ar
+#
+
+User-agent: *
+
+Disallow: 
